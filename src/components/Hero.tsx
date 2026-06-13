@@ -27,11 +27,8 @@ export default function Hero() {
         </h1>
 
         <p className="mx-auto mb-8 max-w-2xl text-lg leading-relaxed text-zinc-600 dark:text-zinc-400">
-          Building scalable SaaS applications with{" "}
-          <span className="font-semibold text-zinc-900 dark:text-white">React</span>,{" "}
-          <span className="font-semibold text-zinc-900 dark:text-white">TypeScript</span>,{" "}
-          <span className="font-semibold text-zinc-900 dark:text-white">Laravel</span> &{" "}
-          <span className="font-semibold text-zinc-900 dark:text-white">PHP</span>.
+          Struggling with slow, messy web apps? I build SaaS systems that stay fast,
+          stable, and maintainable as they grow. <br/>
           Currently diving into{" "}
           <span className="font-semibold text-indigo-600 dark:text-indigo-400">AI agents</span>{" "}
           and{" "}
